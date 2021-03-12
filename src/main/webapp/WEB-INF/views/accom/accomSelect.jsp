@@ -462,8 +462,6 @@ var bindCk=true;
 					}else{
 						var imageName=data.image[i].imgsavename;
 					}
-					console.log(accomName);
-					console.log(minprice);
 					var content=
 						heart+
 						"<input type='hidden' value='"+accomNum+"'>"+
